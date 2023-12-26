@@ -1,0 +1,28 @@
+ThreadPoolExecutor results:
+ThreadPool jobs:1 time:0.00
+ThreadPool jobs:2 time:0.00
+ThreadPool jobs:3 time:0.00
+ThreadPool jobs:4 time:0.00
+ThreadPool jobs:5 time:0.00
+ThreadPool jobs:6 time:0.00
+ThreadPool jobs:7 time:0.00
+ThreadPool jobs:8 time:0.00
+ThreadPool jobs:9 time:0.00
+ThreadPool jobs:10 time:0.00
+ThreadPool jobs:11 time:0.00
+ThreadPool jobs:12 time:0.00
+
+
+ThreadPoolExecutor results:
+ProcessPool jobs:1 time:0.02
+ProcessPool jobs:2 time:0.02
+ProcessPool jobs:3 time:0.02
+ProcessPool jobs:4 time:0.02
+ProcessPool jobs:5 time:0.02
+ProcessPool jobs:6 time:0.02
+ProcessPool jobs:7 time:0.02
+ProcessPool jobs:8 time:0.02
+ProcessPool jobs:9 time:0.02
+ProcessPool jobs:10 time:0.02
+ProcessPool jobs:11 time:0.02
+ProcessPool jobs:12 time:0.02
